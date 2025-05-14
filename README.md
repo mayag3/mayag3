@@ -1,97 +1,49 @@
-## Hi there! 👋
+<h2 align="left">Hi 👋! My name is Maya and I'm a tech girlie, from Hyderabad</h2>
 
-I'm **Krishnamaya Nambiar**, a passionate developer from **Hyderabad, India**. I love creating engaging and efficient web applications. Let's connect and collaborate!
+###
 
-## About Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-I am a software developer based in Hyderabad, India. I enjoy working on diverse projects and continuously learning new technologies. My journey in tech has been exciting, and I aim to build impactful solutions that enhance user experiences.
+###
 
-## Skills & Technologies
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-html,css,django,nodejs,git
+###
 
-## Top Projects
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-- [Portfolio](https://github.com/mayag3/Portfolio): A personal portfolio website created using HTML, CSS, and JavaScript. ⭐️ 0
-- [Trackit360](https://github.com/mayag3/trackit360): A comprehensive tracking application that enhances productivity. ⭐️ 0
-- [mini-project](https://github.com/mayag3/mini-project): A small project demonstrating various web technologies. ⭐️ 0
-- [tic-tac-toe-game](https://github.com/mayag3/tic-tac-toe-game): A fun implementation of the classic game using HTML, CSS, and JS. ⭐️ 0
-- [foundation-shade-recommender](https://github.com/mayag3/foundation-shade-recommender): An application to recommend foundation shades based on skin tone. ⭐️ 0
+###
 
-## GitHub Stats
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayag3&show_icons=true&theme=radical)
+###
 
-- **Public Repositories:** 10
-- **Followers:** 3
-- **Following:** 4
+<br clear="both">
 
-## Recent Activity
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-- Opened a pull request in [Trackit360](https://github.com/raghav-2408/Trackit360/pull/1) on May 12, 2025.
-- Updated README.md in [Trackit360](https://github.com/mayag3/trackit360) on May 1, 2025.
-- Created the repository [foundation-shade-recommender](https://github.com/mayag3/foundation-shade-recommender) on July 29, 2024.
-
-## Latest Blog Posts
-
-No blog posts available yet. Stay tuned!
-
-## Connect with Me
-
-{"generic":"https://in.linkedin.com/in/krishnamaya-nambiar-b10554228"}
-
-## My Talks
-
-- [Talk Title](link-to-talk) - Brief description of the talk
-
-## Certifications
-
-- [Certification Name](link-to-certificate) - Issuing organization, Year## Hi there! 👋
-
-I'm **Krishnamaya Nambiar**, a passionate developer from **Hyderabad, India**. I love creating engaging and efficient web applications. Let's connect and collaborate!
-
-## About Me
-
-I am a software developer based in Hyderabad, India. I enjoy working on diverse projects and continuously learning new technologies. My journey in tech has been exciting, and I aim to build impactful solutions that enhance user experiences.
-
-## Skills & Technologies
-
-html,css,django,nodejs,git
-
-## Top Projects
-
-- [Portfolio](https://github.com/mayag3/Portfolio): A personal portfolio website created using HTML, CSS, and JavaScript. ⭐️ 0
-- [Trackit360](https://github.com/mayag3/trackit360): A comprehensive tracking application that enhances productivity. ⭐️ 0
-- [mini-project](https://github.com/mayag3/mini-project): A small project demonstrating various web technologies. ⭐️ 0
-- [tic-tac-toe-game](https://github.com/mayag3/tic-tac-toe-game): A fun implementation of the classic game using HTML, CSS, and JS. ⭐️ 0
-- [foundation-shade-recommender](https://github.com/mayag3/foundation-shade-recommender): An application to recommend foundation shades based on skin tone. ⭐️ 0
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayag3&show_icons=true&theme=radical)
-
-- **Public Repositories:** 10
-- **Followers:** 3
-- **Following:** 4
-
-## Recent Activity
-
-- Opened a pull request in [Trackit360](https://github.com/raghav-2408/Trackit360/pull/1) on May 12, 2025.
-- Updated README.md in [Trackit360](https://github.com/mayag3/trackit360) on May 1, 2025.
-- Created the repository [foundation-shade-recommender](https://github.com/mayag3/foundation-shade-recommender) on July 29, 2024.
-
-## Latest Blog Posts
-
-No blog posts available yet. Stay tuned!
-
-## Connect with Me
-
-{"generic":"https://in.linkedin.com/in/krishnamaya-nambiar-b10554228"}
-
-## My Talks
-
-- [Talk Title](link-to-talk) - Brief description of the talk
-
-## Certifications
-
-- [Certification Name](link-to-certificate) - Issuing organization, Year
+###

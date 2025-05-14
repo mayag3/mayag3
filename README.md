@@ -38,4 +38,4 @@
 
 ###  
 <br clear="both" />  
-<img src="https://raw.githubusercontent.com/mayag3/mayag3/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/mayag3/mayag3/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
